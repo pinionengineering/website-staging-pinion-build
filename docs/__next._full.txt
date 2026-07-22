@@ -8,8 +8,8 @@
 10:I[5718,[],"default",1]
 :HL["/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/33aaaed551574aac.css","style"]
-0:{"P":null,"c":["","docs",""],"q":"","i":false,"f":[[["",{"children":["(docs)",{"children":["docs",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/33aaaed551574aac.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_246ccd __variable_c29908 antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"min-h-screen bg-gray-50 text-gray-900","children":[["$","$L7",null,{}],["$","div",null,{"className":"max-w-4xl mx-auto py-6 px-4 sm:px-6 lg:px-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-gray-900 text-white mt-16 border-t border-gray-800","role":"contentinfo","children":["$","div",null,{"className":"max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg font-semibold mb-4 text-blue-400","children":"Pinion"}],["$","p",null,{"className":"text-gray-400 text-sm mb-4","children":"Modern IPFS infrastructure for developers who need reliable, scalable, and trustless data storage."}],["$","div",null,{"className":"flex flex-col gap-2 mt-4","children":[["$","div",null,{"className":"flex items-center text-sm text-gray-500","children":[["$","svg",null,{"className":"w-4 h-4 mr-2 text-green-500","fill":"currentColor","viewBox":"0 0 20 20","children":["$","path",null,{"fillRule":"evenodd","d":"M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z","clipRule":"evenodd"}]}],"99.9% Uptime SLA"]}],["$","div",null,{"className":"flex items-center text-sm text-gray-500","children":[["$","svg",null,{"className":"w-4 h-4 mr-2 text-green-500","fill":"currentColor","viewBox":"0 0 20 20","children":["$","path",null,{"fillRule":"evenodd","d":"M2.166 4.999A11.954 11.954 0 0010 1.944 11.954 11.954 0 0017.834 5c.11.65.166 1.32.166 2.001 0 5.225-3.34 9.67-8 11.317C5.34 16.67 2 12.225 2 7c0-.682.057-1.35.166-2.001zm11.541 3.708a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z","clipRule":"evenodd"}]}],"Content Integrity Guaranteed"]}]]}]]}],"$L8","$L9","$La"]}],"$Lb"]}]}]]}]]}],{"children":["$Lc",{"children":["$Ld",{},null,false,null]},null,false,"$@e"]},null,false,null]},null,false,null],"$Lf",false]],"m":"$undefined","G":["$10",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"sLxTd6Yseg25cSr2ZGI1m"}
+:HL["/_next/static/css/619370b8ef350e1b.css","style"]
+0:{"P":null,"c":["","docs",""],"q":"","i":false,"f":[[["",{"children":["(docs)",{"children":["docs",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/619370b8ef350e1b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_246ccd __variable_c29908 antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"min-h-screen bg-gray-50 text-gray-900","children":[["$","$L7",null,{}],["$","div",null,{"className":"max-w-4xl mx-auto py-6 px-4 sm:px-6 lg:px-8","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:children:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-gray-900 text-white mt-16 border-t border-gray-800","role":"contentinfo","children":["$","div",null,{"className":"max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-lg font-semibold mb-4 text-blue-400","children":"Pinion"}],["$","p",null,{"className":"text-gray-400 text-sm mb-4","children":"Modern IPFS infrastructure for developers who need reliable, scalable, and trustless data storage."}],["$","div",null,{"className":"flex flex-col gap-2 mt-4","children":[["$","div",null,{"className":"flex items-center text-sm text-gray-500","children":[["$","svg",null,{"className":"w-4 h-4 mr-2 text-green-500","fill":"currentColor","viewBox":"0 0 20 20","children":["$","path",null,{"fillRule":"evenodd","d":"M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z","clipRule":"evenodd"}]}],"99.9% Uptime SLA"]}],["$","div",null,{"className":"flex items-center text-sm text-gray-500","children":[["$","svg",null,{"className":"w-4 h-4 mr-2 text-green-500","fill":"currentColor","viewBox":"0 0 20 20","children":["$","path",null,{"fillRule":"evenodd","d":"M2.166 4.999A11.954 11.954 0 0010 1.944 11.954 11.954 0 0017.834 5c.11.65.166 1.32.166 2.001 0 5.225-3.34 9.67-8 11.317C5.34 16.67 2 12.225 2 7c0-.682.057-1.35.166-2.001zm11.541 3.708a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z","clipRule":"evenodd"}]}],"Content Integrity Guaranteed"]}]]}]]}],"$L8","$L9","$La"]}],"$Lb"]}]}]]}]]}],{"children":["$Lc",{"children":["$Ld",{},null,false,null]},null,false,"$@e"]},null,false,null]},null,false,null],"$Lf",false]],"m":"$undefined","G":["$10",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"LIlVaM2ggxU4RHRU4RWS8"}
 11:I[9953,["785","static/chunks/app/(docs)/docs/page-6d5a93bc9ffbd1aa.js"],"default"]
 18:I[887,[],"ViewportBoundary"]
 1a:I[887,[],"MetadataBoundary"]
@@ -155,137 +155,50 @@ a9:I[887,[],"OutletBoundary"]
 98:["$","div",null,{"className":"space-y-3 mb-5","children":[["$","div",null,{"className":"flex items-start gap-3 p-3 bg-gray-50 rounded-lg border border-gray-200","children":[["$","span",null,{"className":"inline-block mt-0.5 px-2 py-0.5 rounded text-xs font-mono font-semibold bg-indigo-100 text-indigo-800 border border-indigo-300 shrink-0","children":"Challenger (you)"}],["$","p",null,{"className":"text-gray-600 text-sm","children":["Generates a random challenge locally using your"," ",["$","code",null,{"className":"bg-gray-100 px-1 rounded","children":"client_setup"}]," and the ids derived from ",["$","code",null,{"className":"bg-gray-100 px-1 rounded","children":"block_count"}],". Also produces a one-time ",["$","code",null,{"className":"bg-gray-100 px-1 rounded","children":"Validator"}]," that holds the secret randomness for this round. No network call."]}]]}],["$","div",null,{"className":"flex items-start gap-3 p-3 bg-gray-50 rounded-lg border border-gray-200","children":[["$","span",null,{"className":"inline-block mt-0.5 px-2 py-0.5 rounded text-xs font-mono font-semibold bg-purple-100 text-purple-800 border border-purple-300 shrink-0","children":"Prover (Pinion)"}],["$","p",null,{"className":"text-gray-600 text-sm","children":["Queues your challenge as a proof job and computes a compact cryptographic proof against the stored blocks in the background; poll the job until it's done. The"," ",["$","code",null,{"className":"bg-gray-100 px-1 rounded","children":"/prove"}]," endpoint is not authenticated with a PAT or any bearer token, so anyone can challenge and anyone can verify. You do still need a valid"," ",["$","code",null,{"className":"bg-gray-100 px-1 rounded","children":"key_id"}]," from a challenge key you created during setup to successfully perform a proof."]}]]}]]}]
 99:["$","p",null,{"className":"text-gray-600 mb-3","children":["The cycle per round: generate challenge locally, POST to"," ",["$","code",null,{"className":"bg-gray-100 px-1 rounded","children":"/prover/prove"}]," (queues a job and returns a ",["$","code",null,{"className":"bg-gray-100 px-1 rounded","children":"job_id"}]," immediately), poll"," ",["$","code",null,{"className":"bg-gray-100 px-1 rounded","children":"GET /prover/prove/<job_id>"}]," until it reaches a terminal state, verify locally. If verification fails, the data has been tampered with or lost."]}]
 9a:["$","p",null,{"className":"text-gray-600 mb-2 font-medium","children":"Load state file and run the audit loop:"}]
-b0:Te19,package main
+b0:T45f,package main
 
 import (
-	"bytes"
-	"encoding/json"
+	"context"
 	"fmt"
-	"io"
 	"log"
-	"net/http"
 	"os"
 	"time"
 
-	"github.com/ipfs/go-cid"
-	ipfsproof "github.com/pinionengineering/ipfs-storage-proofs"
-	swpub "github.com/pinionengineering/storage-proofs/line/swpub"
+	proverclient "github.com/pinionengineering/pinion-prover-client/go"
 )
 
-// sw-pub virtualizes every root into uniform super-blocks, so the setup
-// document carries a block_count instead of a per-block CID list; no
-// manifest of any kind is needed.
-type rootInfo struct {
-	BlockCount int `json:"block_count"`
-}
-
-type clientState struct {
-	Server      string              `json:"server"`
-	KeyID       string              `json:"key_id"`
-	Protocol    string              `json:"protocol"`
-	ClientSetup []byte              `json:"client_setup"`
-	Roots       map[string]rootInfo `json:"roots"`
-}
-
 func main() {
-	data, err := os.ReadFile("prover-state.json")
+	ctx := context.Background()
+	client := proverclient.NewClient("https://hydrogen.pinion.build/prover",
+		proverclient.WithTokenFunc(func(context.Context) (string, error) {
+			return os.Getenv("PINION_TOKEN"), nil
+		}),
+	)
+
+	// Setup phase (done once per key; skip if you already have a keyID + setup)
+	key, err := client.CreateKey(ctx, "sw-pub", "")
 	if err != nil {
 		log.Fatal(err)
 	}
-	var state clientState
-	if err := json.Unmarshal(data, &state); err != nil {
+	if _, err := client.Tag(ctx, "bafybeigdyrzt...", key.KeyID, nil); err != nil {
 		log.Fatal(err)
 	}
-
-	// Reconstruct each root's super-block challenge ids: rootCID.Bytes() ||
-	// BE64(localIndex) for localIndex in [0, block_count). Both the server and
-	// this client derive the same ids independently from the root CID plus
-	// block_count alone; see ipfsproof.SuperBlockID.
-	var blockIDs [][]byte
-	for rootStr, root := range state.Roots {
-		rootCID, err := cid.Decode(rootStr)
-		if err != nil {
-			log.Fatalf("invalid root CID %s: %v", rootStr, err)
-		}
-		for i := 0; i < root.BlockCount; i++ {
-			blockIDs = append(blockIDs, ipfsproof.SuperBlockID(rootCID, uint64(i)))
-		}
-	}
-
-	factory := swpub.NewChallengerFactory()
-	challenger, err := factory.NewChallenger(state.ClientSetup, 20)
+	setup, err := client.GetSetup(ctx, key.KeyID)
 	if err != nil {
 		log.Fatal(err)
 	}
 
+	// Audit loop; no authentication required after setup
 	for round := 1; ; round++ {
-		// Step 1: generate challenge locally, no network call.
-		chal, validator, err := challenger.Challenge(blockIDs)
-		if err != nil {
-			log.Fatalf("round %d: challenge failed: %v", round, err)
+		result, err := client.Audit(ctx, key.KeyID, setup, "sw-pub", nil)
+		if err != nil || !result.Pass {
+			log.Fatalf("round %d: VERIFICATION FAILED, data may be lost or tampered: %v", round, err)
 		}
-
-		// Step 2: send challenge to the prover, no auth required.
-		body, _ := json.Marshal(map[string]any{
-			"key_id":    state.KeyID,
-			"roots":     []string{},
-			"challenge": chal,
-		})
-		resp, err := http.Post(
-			state.Server+"/prover/prove",
-			"application/json",
-			bytes.NewReader(body),
-		)
-		if err != nil {
-			log.Fatalf("round %d: prove request failed: %v", round, err)
-		}
-		body, _ = io.ReadAll(resp.Body)
-		resp.Body.Close()
-		var jr struct {
-			JobID string `json:"job_id"`
-		}
-		if err := json.Unmarshal(body, &jr); err != nil {
-			log.Fatalf("round %d: decode prove response: %v", round, err)
-		}
-
-		// Step 3: proving is asynchronous. Poll until the job finishes.
-		var proof []byte
-		for {
-			time.Sleep(500 * time.Millisecond)
-			sresp, err := http.Get(state.Server + "/prover/prove/" + jr.JobID)
-			if err != nil {
-				log.Fatalf("round %d: poll failed: %v", round, err)
-			}
-			sbody, _ := io.ReadAll(sresp.Body)
-			sresp.Body.Close()
-			var status struct {
-				Status string `json:"status"`
-				Proof  []byte `json:"proof"`
-				Error  string `json:"error"`
-			}
-			if err := json.Unmarshal(sbody, &status); err != nil {
-				log.Fatalf("round %d: decode status: %v", round, err)
-			}
-			if status.Status == "prove-done" {
-				proof = status.Proof
-				break
-			}
-			if status.Status == "prove-failed" {
-				log.Fatalf("round %d: prove job failed: %s", round, status.Error)
-			}
-		}
-
-		// Step 4: verify the proof locally, no network call.
-		ok, err := validator.Verify(chal, proof)
-		if err != nil || !ok {
-			log.Fatalf("round %d: VERIFICATION FAILED, data may be lost or tampered", round)
-		}
-		fmt.Printf("round %d: OK\n", round)
-
+		fmt.Printf("round %d: OK (%d blocks checked)\n", round, result.BlocksChecked)
 		time.Sleep(10 * time.Second)
 	}
 }9b:["$","$L11",null,{"go":"$b0","js":"import { PinionProverClient } from '@pinionengineering/prover-client';\n\nconst client = new PinionProverClient('https://hydrogen.pinion.build/prover', {\n  getToken: async () => process.env.PINION_TOKEN,\n});\n\n// Setup phase (done once per key; skip if you already have a keyId + setup)\nconst { keyId } = await client.createKey();\nawait client.tag('bafybeigdyrzt...', keyId);\nconst setup = await client.getSetup(keyId);\nconsole.log('Setup: ' + setup.totalBlocks + ' blocks across ' + setup.roots.length + ' root(s)');\n\n// Audit loop; no authentication required after setup\nfor (let round = 1; ; round++) {\n  const result = await client.audit(keyId, setup);\n  if (!result.pass) {\n    console.error('round ' + round + ': VERIFICATION FAILED, data may be lost or tampered');\n    process.exit(1);\n  }\n  console.log('round ' + round + ': OK (' + result.blocksChecked + ' blocks checked)');\n  await new Promise(r => setTimeout(r, 10_000));\n}","curl":"# curl cannot generate a valid challenge or verify the proof; those steps\n# require client-side cryptography. Use the Go or JavaScript library instead.\n#\n# The /prove endpoint itself accepts a raw POST (no authentication required).\n# Proving is asynchronous, so this queues the job and returns immediately:\ncurl -X POST https://hydrogen.pinion.build/prover/prove \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\"key_id\":\"<uuid>\",\"roots\":[],\"challenge\":\"<base64>\",\"challenge_id\":\"<optional-id>\"}'\n# Returns JSON: {\"job_id\":\"<id>\"}. Poll GET /prove/<job_id> until status is\n# \"prove-done\" (then proof is populated) or \"prove-failed\" (then error is).\n# The challenge must be generated by the Go/JS client and the proof\n# verified by the same client. See the Go and JavaScript tabs above."}]
-9c:["$","p",null,{"className":"text-gray-600 text-sm mb-6","children":["The ",["$","code",null,{"className":"bg-gray-100 px-1 rounded","children":"sw-pub"}]," protocol is recommended for IPFS workloads: it is publicly verifiable and supports cross-CID challenges. The JavaScript tab uses"," ",["$","a",null,{"href":"https://github.com/pinionengineering/pinion-prover-client","target":"_blank","rel":"noopener noreferrer","className":"text-blue-600 hover:text-blue-800","children":"@pinionengineering/prover-client"}],", which handles BN254 pairing math client-side. The Go tab uses"," ",["$","a",null,{"href":"https://github.com/pinionengineering/storage-proofs/tree/main/line","target":"_blank","rel":"noopener noreferrer","className":"text-blue-600 hover:text-blue-800","children":"storage-proofs/line/swpub"}]," ","directly. See"," ",["$","a",null,{"href":"https://github.com/pinionengineering/ipfs-storage-proofs","target":"_blank","rel":"noopener noreferrer","className":"text-blue-600 hover:text-blue-800","children":"ipfs-storage-proofs"}]," ","for server-side IPFS DAG tagging."]}]
+9c:["$","p",null,{"className":"text-gray-600 text-sm mb-6","children":["The ",["$","code",null,{"className":"bg-gray-100 px-1 rounded","children":"sw-pub"}]," protocol is recommended for IPFS workloads: it is publicly verifiable and supports cross-CID challenges. Both tabs above use"," ",["$","a",null,{"href":"https://github.com/pinionengineering/pinion-prover-client","target":"_blank","rel":"noopener noreferrer","className":"text-blue-600 hover:text-blue-800","children":"pinion-prover-client"}],", which ships a client for each language: the JavaScript tab uses"," ",["$","code",null,{"className":"bg-gray-100 px-1 rounded","children":"@pinionengineering/prover-client"}],", which implements the BN254 pairing math itself; the Go tab uses"," ",["$","code",null,{"className":"bg-gray-100 px-1 rounded","children":"pinion-prover-client/go"}],", a thin wrapper around"," ",["$","a",null,{"href":"https://github.com/pinionengineering/storage-proofs/tree/main/line","target":"_blank","rel":"noopener noreferrer","className":"text-blue-600 hover:text-blue-800","children":"storage-proofs/line/swpub"}]," ","and"," ",["$","a",null,{"href":"https://github.com/pinionengineering/ipfs-storage-proofs","target":"_blank","rel":"noopener noreferrer","className":"text-blue-600 hover:text-blue-800","children":"ipfs-storage-proofs"}],", the same libraries pinion-prover itself runs on. Both clients speak the same wire protocol, so you can mix them, tag from one, audit from the other."]}]
 9d:["$","h4",null,{"id":"prover-endpoints","className":"text-lg font-medium text-gray-900 mt-6 mb-2","children":"Endpoints"}]
 9e:["$","h5",null,{"className":"text-base font-medium text-gray-900 mt-4 mb-2","children":["Key Management"," ",["$","span",null,{"className":"text-sm font-normal text-gray-500","children":"(requires Bearer JWT or OAuth session)"}]]}]
 9f:["$","div",null,{"className":"overflow-x-auto mb-6","children":["$","table",null,{"className":"min-w-full border border-gray-300","children":[["$","thead",null,{"className":"bg-gray-50","children":["$","tr",null,{"children":[["$","th",null,{"className":"border border-gray-300 px-3 py-2 text-left text-sm font-medium text-gray-900","children":"Method"}],["$","th",null,{"className":"border border-gray-300 px-3 py-2 text-left text-sm font-medium text-gray-900","children":"Path"}],["$","th",null,{"className":"border border-gray-300 px-3 py-2 text-left text-sm font-medium text-gray-900","children":"Body / Params"}],["$","th",null,{"className":"border border-gray-300 px-3 py-2 text-left text-sm font-medium text-gray-900","children":"Response"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"className":"border border-gray-300 px-3 py-2 text-sm","children":["$","span",null,{"className":"font-semibold font-mono text-green-700","children":"POST"}]}],["$","td",null,{"className":"border border-gray-300 px-3 py-2 text-sm font-mono","children":"/prover/pat/v1/challenge-key"}],["$","td",null,{"className":"border border-gray-300 px-3 py-2 text-sm font-mono text-xs","children":"{\"protocol\": \"sw-priv\"}"}],["$","td",null,{"className":"border border-gray-300 px-3 py-2 text-sm","children":["$","code",null,{"className":"bg-gray-100 px-1 rounded text-xs","children":"{key_id, client_setup}"}]}]]}],["$","tr",null,{"className":"bg-gray-50","children":[["$","td",null,{"className":"border border-gray-300 px-3 py-2 text-sm","children":["$","span",null,{"className":"font-semibold font-mono text-blue-700","children":"GET"}]}],["$","td",null,{"className":"border border-gray-300 px-3 py-2 text-sm font-mono","children":"/prover/pat/v1/challenge-keys"}],["$","td",null,{"className":"border border-gray-300 px-3 py-2 text-sm text-gray-500","children":"(none)"}],["$","td",null,{"className":"border border-gray-300 px-3 py-2 text-sm","children":["Array of"," ",["$","code",null,{"className":"bg-gray-100 px-1 rounded text-xs","children":"ChallengeKeyInfo"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"className":"border border-gray-300 px-3 py-2 text-sm","children":["$","span",null,{"className":"font-semibold font-mono text-red-700","children":"DELETE"}]}],["$","td",null,{"className":"border border-gray-300 px-3 py-2 text-sm font-mono","children":"/prover/pat/v1/challenge-key/:id"}],["$","td",null,{"className":"border border-gray-300 px-3 py-2 text-sm text-gray-500","children":"(none)"}],["$","td",null,{"className":"border border-gray-300 px-3 py-2 text-sm","children":"204 No Content"}]]}]]}]]}]}]
@@ -387,7 +300,7 @@ for {
 }
 fmt.Printf("tagged %d super-blocks\n", blockCount)ad:["$","$L11",null,{"curl":"# Tagging is asynchronous, so this queues the job and returns immediately:\ncurl -X POST https://hydrogen.pinion.build/prover/pat/v1/tag \\\n  -H \"Authorization: Bearer YOUR_TOKEN\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\"root\": \"bafybeigdyrzt...\", \"key_id\": \"550e8400-...\"}'\n# Returns JSON: {\"job_id\":\"<id>\"}. Poll GET /tag/<job_id> (same auth) until\n# status is \"tag-done\" (then block_count/block_ids are populated) or\n# \"tag-failed\" (then error is). A large DAG can take minutes to walk.\ncurl https://hydrogen.pinion.build/prover/pat/v1/tag/<job_id> -H \"Authorization: Bearer YOUR_TOKEN\"","go":"$b2","js":"// client was created in step 1\nconst tagResult = await client.tag('bafybeigdyrzt...', keyId);\nconsole.log('Super-blocks tagged:', tagResult.block_count);\n// Block count is included in the setup document; call getSetup() next","className":"mb-2"}]
 ae:["$","div",null,{"className":"bg-gray-900 text-gray-100 p-3 rounded-md font-mono text-sm overflow-x-auto","children":["$","pre",null,{"children":"{ \"block_count\": 42 }"}]}]
-af:["$","div",null,{"children":[["$","p",null,{"className":"font-medium text-gray-900 mb-1","children":"Step 3, Export your client state"}],["$","p",null,{"className":"text-gray-600 text-sm mb-2","children":"Once all roots are tagged, fetch your full client state in one call. This gives you everything needed to run audits from any machine, without making authenticated requests again."}],["$","$L11",null,{"curl":"curl \"https://hydrogen.pinion.build/prover/pat/v1/setup?key_id=550e8400-...\" \\\n  -H \"Authorization: Bearer YOUR_TOKEN\"","go":"req, _ := http.NewRequest(\"GET\",\n\t\"https://hydrogen.pinion.build/prover/pat/v1/setup?key_id=\"+keyID, nil)\nreq.Header.Set(\"Authorization\", \"Bearer YOUR_TOKEN\")\nresp, _ := http.DefaultClient.Do(req)\ndefer resp.Body.Close()\nstate, _ := io.ReadAll(resp.Body)\nos.WriteFile(\"prover-state.json\", state, 0600)\n// prover-state.json contains everything needed to run audits offline","js":"// client was created in step 1\nconst setup = await client.getSetup(keyId);\nconsole.log('Total blocks:', setup.totalBlocks, 'across', setup.roots.length, 'root(s)');\n// Pass setup to client.audit(); no further authenticated requests needed","className":"mb-2"}],["$","p",null,{"className":"text-gray-600 text-sm mb-2","children":["When using curl, save the response as a JSON file. Its shape matches the state file used by the"," ",["$","a",null,{"href":"https://github.com/pinionengineering/pinion-prover","target":"_blank","rel":"noopener noreferrer","className":"text-blue-600 hover:text-blue-800","children":"Go testclient"}],"; the"," ",["$","a",null,{"href":"https://github.com/pinionengineering/pinion-prover-client","target":"_blank","rel":"noopener noreferrer","className":"text-blue-600 hover:text-blue-800","children":"JavaScript client"}]," ","uses ",["$","code",null,{"className":"bg-gray-100 px-1 rounded","children":"getSetup()"}]," and keeps the parsed setup in memory:"]}],["$","div",null,{"className":"bg-gray-900 text-gray-100 p-3 rounded-md font-mono text-sm overflow-x-auto","children":["$","pre",null,{"children":"{\n  \"server\":       \"https://hydrogen.pinion.build\",\n  \"key_id\":       \"550e8400-e29b-41d4-a716-446655440000\",\n  \"protocol\":     \"sw-pub\",\n  \"client_setup\": \"<base64>\",\n  \"roots\": {\n    \"bafybeigdyrzt...\": {\n      \"block_count\": 42\n    }\n  }\n}"}]}]]}]
+af:["$","div",null,{"children":[["$","p",null,{"className":"font-medium text-gray-900 mb-1","children":"Step 3, Export your client state"}],["$","p",null,{"className":"text-gray-600 text-sm mb-2","children":"Once all roots are tagged, fetch your full client state in one call. This gives you everything needed to run audits from any machine, without making authenticated requests again."}],["$","$L11",null,{"curl":"curl \"https://hydrogen.pinion.build/prover/pat/v1/setup?key_id=550e8400-...\" \\\n  -H \"Authorization: Bearer YOUR_TOKEN\"","go":"req, _ := http.NewRequest(\"GET\",\n\t\"https://hydrogen.pinion.build/prover/pat/v1/setup?key_id=\"+keyID, nil)\nreq.Header.Set(\"Authorization\", \"Bearer YOUR_TOKEN\")\nresp, _ := http.DefaultClient.Do(req)\ndefer resp.Body.Close()\nstate, _ := io.ReadAll(resp.Body)\nos.WriteFile(\"prover-state.json\", state, 0600)\n// prover-state.json contains everything needed to run audits offline","js":"// client was created in step 1\nconst setup = await client.getSetup(keyId);\nconsole.log('Total blocks:', setup.totalBlocks, 'across', setup.roots.length, 'root(s)');\n// Pass setup to client.audit(); no further authenticated requests needed","className":"mb-2"}],["$","p",null,{"className":"text-gray-600 text-sm mb-2","children":["When using curl, save the response as a JSON file. Its shape matches the state file used by the"," ",["$","a",null,{"href":"https://github.com/pinionengineering/pinion-prover-client/tree/main/go","target":"_blank","rel":"noopener noreferrer","className":"text-blue-600 hover:text-blue-800","children":"Go client’s testclient CLI"}],"; the"," ",["$","a",null,{"href":"https://github.com/pinionengineering/pinion-prover-client/tree/main/js","target":"_blank","rel":"noopener noreferrer","className":"text-blue-600 hover:text-blue-800","children":"JavaScript client"}]," ","uses ",["$","code",null,{"className":"bg-gray-100 px-1 rounded","children":"getSetup()"}]," and keeps the parsed setup in memory:"]}],["$","div",null,{"className":"bg-gray-900 text-gray-100 p-3 rounded-md font-mono text-sm overflow-x-auto","children":["$","pre",null,{"children":"{\n  \"server\":       \"https://hydrogen.pinion.build\",\n  \"key_id\":       \"550e8400-e29b-41d4-a716-446655440000\",\n  \"protocol\":     \"sw-pub\",\n  \"client_setup\": \"<base64>\",\n  \"roots\": {\n    \"bafybeigdyrzt...\": {\n      \"block_count\": 42\n    }\n  }\n}"}]}]]}]
 19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 b3:I[214,[],"IconMark"]
 1c:[["$","title","0",{"children":"Pinion"}],["$","meta","1",{"name":"description","content":"Modern software development platform"}],["$","link","2",{"rel":"icon","href":"/icon.svg?0dc675b7b3a2dbe5","type":"image/svg+xml","sizes":"any"}],["$","$Lb3","3",{}]]
